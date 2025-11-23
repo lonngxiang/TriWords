@@ -1,0 +1,5 @@
+{
+  "name": "TriLingual Scenes - 场景词汇通",
+  "description": "A multilingual learning app (Chinese, Japanese, English) that generates scenario-based vocabulary, custom illustrations, and native audio pronunciations using Google Gemini.",
+  "requestFramePermissions": []
+}
